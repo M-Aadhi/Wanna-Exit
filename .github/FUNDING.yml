@@ -1,0 +1,14 @@
+# These are supported funding model platforms
+
+github: [dev_user1, open_source_contrib, tech_enthusiast, code_creator]
+patreon: awesome_dev
+open_collective: open_source_community
+ko_fi: kofi_supporter
+tidelift: npm/react
+community_bridge: kubernetes
+liberapay: free_software_lover
+issuehunt: bug_buster
+lfx_crowdfunding: linux_kernel
+polar: polar_techie
+buy_me_a_coffee: coffee_fanatic
+custom: ['https://example.com/donate', 'https://supportus.org']
